@@ -1,16 +1,8 @@
 <p align="center">
 <img src="https://cdn.hamm.cn/svg/spms/logo.svg"/>
 </p>
-
 <p align="center">
-  <img src="//svg.hamm.cn?key=Core&value=AirPower4T"/>
-  <img src="//svg.hamm.cn?key=Lang&value=TypeScript&bg=green"/>
-  <img src="//svg.hamm.cn?key=Base&value=Vue3"/>
-  <img src="//svg.hamm.cn?key=Build&value=Vite"/>
-  <img src="//svg.hamm.cn?key=UI&value=ElementPlus"/>
-</p>
-<p align="center">
-<a href="//github.com/s-pms">@Github</a> <a href="//gitee.com/s-pms">@Gitee</a> <a href="/s-pms/SPMS-Docs/SPMS-RELEASE.md">版本发布</a> <a href="/s-pms/SPMS-Docs/SPMS-PLAN.md">开发计划</a> <a href="/s-pms/SPMS-Docs/issues">反馈与建议</a>
+<a href="//github.com/s-pms">@Github</a> <a href="//gitee.com/s-pms">@Gitee</a>
 </p>
 
 ## S-PMS介绍
