@@ -10,7 +10,7 @@
   <img src="//svg.hamm.cn?key=UI&value=ElementPlus"/>
 </p>
 <p align="center">
-<a href="//github.com/s-pms">@Github</a> <a href="//gitee.com/s-pms">@Gitee</a> 
+<a href="//github.com/s-pms">@Github</a> <a href="//gitee.com/s-pms">@Gitee</a> <a href="/s-pms/SPMS-Docs/SPMS-RELEASE.md">版本发布</a> <a href="/s-pms/SPMS-Docs/SPMS-PLAN.md">开发计划</a> <a href="/s-pms/SPMS-Docs/issues">反馈与建议</a>
 </p>
 
 ## S-PMS介绍
