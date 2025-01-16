@@ -45,3 +45,15 @@
 <img src="https://raw.githubusercontent.com/s-pms/SPMS-Server/refs/heads/main/docs/img/19.png" width="18%"/>
 <img src="https://raw.githubusercontent.com/s-pms/SPMS-Server/refs/heads/main/docs/img/20.png" width="18%"/>
 </p>
+
+## 开发者指南
+
+你可以查看 [开发者指南@Github](https://github.com/s-pms/SPMS-Docs)、[开发者指南@Gitee](https://gitee.com/s-pms/SPMS-Docs) 等帮助文档。
+
+## 联系我们
+
+**S-PMS** 所有代码均在 **MIT** 开源协议规范下免费提供，你可以放心使用。
+
+如果有定制需求，欢迎联系我们：
+
+Email: admin@hamm.cn
